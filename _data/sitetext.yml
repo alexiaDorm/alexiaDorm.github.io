@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     title: "Interests"
     text: ""
     section: services
-     list:
+    list:
       - title: "Data science & Machine learning"
         desc: ""
         icon: fas fa-laptop-code
