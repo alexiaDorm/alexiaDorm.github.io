@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: 
-    text: Joshua Curtiss
-    button: About
-    buttonlink: "#briefbio"
+    text: Alexia
+    #button: About
+    #buttonlink: "#briefbio"
   briefbio:
     title: 
     section: briefbio
@@ -22,19 +22,16 @@ en: &DEFAULT_EN
     title: "Interests"
     text: ""
     section: services
-    list:
-      - title: "Nosology of Emotional Disorders"
-        desc: "Most of my research investigates alternative classification frameworks for emotional disorders. Recent interests include the application of complex causal network approaches and critical transition methods in the cross-sectional and longitudinal modeling of emotional disorders."
-        icon: fas fa-project-diagram #find more at https://fontawesome.com/icons
-      - title: "Philosophy of Science and Psychopathology"
-        desc: "My scientific research is complemented by my abiding passion for metaphysics, epistemology, and philosophy of science. I primarily endorse and defend global skepticism. A current paper that will be under review explores the ontology of mental disorders, contenting that an anti-realist framework offers the best explanatory account."
-        icon: fas fa-mortar-pestle
-      - title: "Emotion Regulation and Mindfulness"
-        desc: "Another principal domain of inquiry is how deficits in emotion regulation and mindfulness relate to the maintenance of anxiety and depressive disorders. Recent papers have investigated the presence of differential mindfulness deficits across generalized anxiety disorder and major depressive disorder. Furthermore, I am interested in emotion regulation mechanisms underlying empirically supported treatments."
-        icon: fas fa-seedling
-      - title: "Statistics"
-        desc: "Recent interests include the potential application of finite mixture models and complex causal network approaches to characterize emotional psychopathology. Moreover, I have also become interested in longitudinal methods of addressing mediation (e.g., extensions of latent growth modeling techniques, dampened oscillator models, etc.)."
+     list:
+      - title: "Data science & Machine learning"
+        desc: ""
         icon: fas fa-laptop-code
+      - title: "Bioinformatics"
+        desc: ""
+        icon: fas fa-dna
+      - title: "Cancer biology"
+        desc: ""
+        icon: fas fa-seedling
 
   portfolio:
     title: "Portfolio"
@@ -136,18 +133,13 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: mailto:jcurtiss@mgh.harvard.edu
+      - url: alexia.dormann@epfl.ch
         icon: "fas fa-envelope"
-      - url: https://twitter.com/psychonetrics
-        icon: "fab fa-twitter"  
-#       - url: https://facebook.com
-#         icon: "fab fa-facebook-f"
-#       - url: https://linkedin.com
-#         icon: "fab fa-linkedin-in"
-      - url: https://github.com/Joshua-Curtiss
+      - url: https://www.linkedin.com/in/alexia-dormann-58b11b240/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/AlexiaDorm
         icon: "fab fa-github"
-#       - url: https://instagram.com
-#         icon: "fab fa-instagram"
+
 
 en-US:
   <<: *DEFAULT_EN
