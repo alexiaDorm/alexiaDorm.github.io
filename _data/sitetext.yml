@@ -50,7 +50,6 @@ en: &DEFAULT_EN
    section: contact
     
   footer:
-    legal: "Privacy Policy"
     social:
       - url: alexia.dormann@epfl.ch
         icon: "fas fa-envelope"
