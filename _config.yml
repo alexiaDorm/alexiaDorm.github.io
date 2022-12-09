@@ -19,8 +19,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: ""
 
 title      : Home
-email      : joshcur@gmail.com #this is also the email contact forms will go to
-description: "Academic website for Joshua Curtiss"
+email      : alexia Dormann #this is also the email contact forms will go to
+description: "Academic website for Alexia Dormann"
 author     : Alexia Dormann
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
