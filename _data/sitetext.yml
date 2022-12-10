@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   publication:
     title: "Publication"
-    text: [Barcode-free prediction of cell lineages from scRNA-seq datasetsA.S. Eisele, M. Tarbier, A.A. Dormann, V. Pelechano, D.M. SuterbioRxiv 2022.09.20.508646; doi: https://doi.org/10.1101/2022.09.20.508646](https://www.biorxiv.org/content/10.1101/2022.09.20.508646v1)
+    text: "[Barcode-free prediction of cell lineages from scRNA-seq datasetsA.S. Eisele, M. Tarbier, A.A. Dormann, V. Pelechano, D.M. SuterbioRxiv 2022.09.20.508646; doi: https://doi.org/10.1101/2022.09.20.508646](https://www.biorxiv.org/content/10.1101/2022.09.20.508646v1)"
     section: publication
           
   contact:
