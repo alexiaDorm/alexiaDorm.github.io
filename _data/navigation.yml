@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: briefbio
     - title: "Publication"
-      section: publication
+      section: team
     #- title: "CV"
       #url: /assets/img/Curtiss_Joshua_CV_June_2021.pdf
     - title: "Contact"
